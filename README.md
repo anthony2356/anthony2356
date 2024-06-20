@@ -3,7 +3,7 @@
 
 <strong>Programming Languages:</strong> 
 
-<div style="position: center;">
+<div style="margin-left:200px;">
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> 
