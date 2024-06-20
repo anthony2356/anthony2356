@@ -17,3 +17,9 @@ Tools:
 <div style="position: center;">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+
+Stats: 
+
+<div style="position: center;">
+<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" />
+</div>
