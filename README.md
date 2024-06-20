@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m anthony2356
+- 👋 Eae? Eu sou o Anthony
 
-Programming Languages: 
+<strong>Programming Languages:</strong> 
 
 <div style="position: center;">
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
@@ -12,3 +12,9 @@ Programming Languages:
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
 </div>
 
+Tools:
+
+
+<div style="position: center;">
+
+</div>
