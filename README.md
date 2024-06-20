@@ -24,3 +24,8 @@
 <div style="position: center;">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+<strong>Operating System: </strong>
+<div style="position: center;">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
