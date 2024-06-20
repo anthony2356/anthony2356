@@ -1,5 +1,5 @@
 
-- 👋 Eae? Eu sou o Anthony
+<strong>👋 Eae? Eu sou o Anthony</strong>
 
 <strong>Programming Languages:</strong> 
 
