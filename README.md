@@ -1,7 +1,7 @@
 
-<strong>👋 Eae? Eu sou o Anthony</strong>
+<strong>👋 Sup? I Am The Anthony</strong>
 
-<strong>Programming Languages:</strong> 
+<strong>PROGRAMMING LANGUAGES:</strong> 
 
 <div style="margin-left:200px;">
  <img style="width: 30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
@@ -21,7 +21,11 @@
 <br>
 
 <div style="position: center;">
+<h1><strong>IDE´s</strong></h1>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
+<h1><strong>VERSION CONTROL SYSTEM TOOL</strong></h1>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <h1><strong>OPERATIONAL SYSTEM</strong></h1>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
